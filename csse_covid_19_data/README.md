@@ -305,6 +305,7 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 08, 2022 | Mauritius | Update cases and deaths from 2022-01-25 to 2022-03-06 | [Data Source](https://besafemoris.mu/communiques/)
 * March 16, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * March 16, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* March 18, 2022 | Hong Kong, China | Correct Hong Kong case data | [Data Source](https://chp-dashboard.geodata.gov.hk/covid-19/en.html)
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -488,6 +489,7 @@ Date: Location | File | Change | Data source for change
 * March 03, 2022: Ontario, Canada | Reporting in Ontario, Canada has been updated to include Toronto Public Health, Ottawa Public Health, Region of Peel, and Region of Halton.
 * March 10, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-02-26
 * March 16, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-05
+* March 17, 2022: Lassen County, California, US | Corrected from 2020-02-01 to 2022-03-16 to report cases and deaths from state source
 
 ## Irregular Update Schedules
 As the pandemic has progressed, several locations have altered their reporting schedules to no longer provide daily updates. As these locations are identified, we will list them in this section of the README. We anticipate that these irregular updates will cause cyclical spikes in the data and smoothing algorithms should be applied if the data is to be used for modeling.

@@ -303,9 +303,14 @@ Date: Location | Change | Files affected | Reason/Other notes | Source
 * March 08, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
 * March 08, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * March 08, 2022 | Mauritius | Update cases and deaths from 2022-01-25 to 2022-03-06 | [Data Source](https://besafemoris.mu/communiques/)
+* March 10, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-02-26
 * March 16, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
 * March 16, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* March 16, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-05
 * March 18, 2022 | Hong Kong, China | Correct Hong Kong case data | [Data Source](https://chp-dashboard.geodata.gov.hk/covid-19/en.html)
+* March 28, 2022 | Ohio, US | To match Ohio’s new reporting standards, the Ohio death time series is being overwritten with date of death data, and the entire time series will be updated with each time Ohio updates their death data. This is expected to occur approximately once per week. | [Data Source](https://coronavirus.ohio.gov/static/dashboards/COVIDDeathData_CountyOfResidence.csv)
+* March 28, 2022 | California, US | Adjust California's data based on historic probable case data provided by CDPH | [Data Source](https://covid19.ca.gov/data-and-tools/)
+* March 28, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-19
 
 ## Retrospective reporting of (probable) cases and deaths
 This section reports instances where large numbers of historical cases or deaths have been reported on a single day. These reports cause anomalous spikes in our time series curves. When available, we liaise with the appropriate health department and distribute the cases or deaths back over the time series. If these are successful, they will be reported in the below section titled "Large Scale Back Distributions". A large proportion of these spikes are due to the release of probable cases or deaths.
@@ -487,8 +492,6 @@ Date: Location | File | Change | Data source for change
 * February 24, 2022: Saskatchewan, Canada | Reporting in Saskatchewan has been corrected from 03-25-2020 to 02-23-2022. This correction is to align our data with the [The Government of Canada](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html).
 * February 28, 2022: Netherlands | Reporting in the Netherlands has been corrected from 07-17-2020 to 02-27-2022. This correction is to align our data with the [The Government of Netherlands](https://coronadashboard.government.nl/verantwoording#confirmed-cases).
 * March 03, 2022: Ontario, Canada | Reporting in Ontario, Canada has been updated to include Toronto Public Health, Ottawa Public Health, Region of Peel, and Region of Halton.
-* March 10, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-02-26
-* March 16, 2022: Tennessee, US | Corrected from 2020-03-12 to 2022-03-05
 * March 17, 2022: Lassen County, California, US | Corrected from 2020-02-01 to 2022-03-16 to report cases and deaths from state source
 
 ## Irregular Update Schedules
@@ -545,7 +548,7 @@ United States
 
 
 International
-* Belgium: Providing data Tuesday-Saturday.
+* Belgium: Providing data Tuesdays and Fridays. ~~Providing data Tuesday-Saturday.~~
 * Bosnia and Herezegovina: Not updating data on the weekends.
 * Alberta, Canada: Providing data Monday-Friday.
 * British Columba, Canada: Providing data Monday-Friday.
@@ -565,7 +568,7 @@ International
 * Nicaragua: Releasing case, death, and recovered data once per week.
 * NSW, Australia: NSW Health has suspended its survey of the recovery status of patients with COVID-19 to focus on the recent increase in community transmission on July 31, 2020. Therefore, recovery statistics are no longer presented. ([Source](https://www.nsw.gov.au/covid-19/find-facts-about-covid-19), [Issue #3694](https://github.com/CSSEGISandData/COVID-19/issues/3694))
 * Spain: Providing data twice a week (Tuesdays and Fridays) (as of March 15, 2022). ~~Not updating case or death data on the weekends (and is not currently providing recoveries at any time)~~
-* Sweden: Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.
+* Sweden: Updating once per week (Thursdays) (as of March 24, 2022). ~~Not updating case, death, or recovered data Saturday-Monday. Updates expected Tuesdays through Fridays.~~
 * UK: Providing data Monday-Friday (as of Feb 26, 2022). Daily death toll paused on July 18. ([GOV.UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public#number-of-cases) and [Reuters](https://www.reuters.com/article/us-health-coronavirus-britain-casualties-idUSKCN24J0GC)). Technical difficulties with the national dashboard are resulting in no update for August 11. [Source](https://twitter.com/phe_uk/status/1293245784599781376?s=21). Corrected on August 12.
 * Wales, UK: Providing data Monday-Saturday.
 

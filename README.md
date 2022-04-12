@@ -149,7 +149,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [San Angelo 1](https://www.cosatx.us/departments-services/health-services/coronavirus-covid-19#ad-image-0)
     - [San Angelo 2](https://www.gosanangelo.com/)
     - [San Antonio](https://covid19.sanantonio.gov/Home)
-    - [Tarrant County](https://www.tarrantcounty.com/en/public-health/disease-control---prevention/coronaviruas.html)
+    - [Tarrant County](https://www.tarrantcounty.com/coronavirus)
     - [Travis County](https://www.traviscountytx.gov/news/2020/1945-novel-coronavirus-covid-19-information)
     - [Williamson County](http://www.wcchd.org/COVID-19/dashboard.php)
   - Utah: [Department of Health](https://coronavirus.utah.gov/case-counts/#overview)
@@ -221,7 +221,8 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Georgia:
     - Government of Georgia Ministry of Health: https://stopcov.ge/en
   - Germany:
-    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/
+    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
+    - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
   - Greece:
     - National Public Health Organization: https://eody.gov.gr/epidimiologika-statistika-dedomena/ektheseis-covid-19/
   - Guatemala:

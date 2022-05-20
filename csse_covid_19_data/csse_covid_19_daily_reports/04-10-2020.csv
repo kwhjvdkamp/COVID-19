@@ -1640,7 +1640,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 55081,Monroe,Wisconsin,US,2020-04-10 22:54:07,43.94641218,-90.61881899999999,8,0,0,8,"Monroe, Wisconsin, US"
 48337,Montague,Texas,US,2020-04-10 22:54:07,33.67521893,-97.72500958,3,0,0,1,"Montague, Texas, US"
 26117,Montcalm,Michigan,US,2020-04-10 22:54:07,43.31082541,-85.15252824,20,1,0,19,"Montcalm, Michigan, US"
-6053,Monterey,California,US,2020-04-10 22:54:07,36.21862405,-121.24133970000001,79,3,0,75,"Monterey, California, US"
+6053,Monterey,California,US,2020-04-10 22:54:07,36.21862405,-121.24133970000001,78,3,0,75,"Monterey, California, US"
 8083,Montezuma,Colorado,US,2020-04-10 22:54:07,37.33859579,-108.59588570000001,8,1,0,7,"Montezuma, Colorado, US"
 1101,Montgomery,Alabama,US,2020-04-10 22:54:07,32.2206831,-86.20969272,97,4,0,93,"Montgomery, Alabama, US"
 17135,Montgomery,Illinois,US,2020-04-10 22:54:07,39.23198845,-89.47809254,8,1,0,7,"Montgomery, Illinois, US"
@@ -2768,7 +2768,7 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antigua and Barbuda,2020-04-10 22:53:48,17.0608,-61.7964,19,2,0,17,Antigua and Barbuda
 ,,,Argentina,2020-04-10 22:53:48,-38.4161,-63.6167,1975,82,375,1518,Argentina
 ,,,Armenia,2020-04-10 22:53:48,40.0691,45.0382,937,12,149,776,Armenia
-,,,Austria,2020-04-10 22:53:48,47.5162,14.5501,13555,319,6064,7172,Austria
+,,,Austria,2020-04-10 22:53:48,47.5162,14.5501,13205,342,6064,7172,Austria
 ,,,Azerbaijan,2020-04-10 22:53:48,40.1431,47.5769,991,10,159,822,Azerbaijan
 ,,,Bahamas,2020-04-10 22:53:48,25.025885,-78.035889,42,8,5,29,Bahamas
 ,,,Bahrain,2020-04-10 22:53:48,26.0275,50.55,925,6,539,380,Bahrain
@@ -2968,3 +2968,4 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Antarctica,2020-04-10 22:54:07,-71.9499,23.347,0,0,0,0,Antarctica
 ,,Jersey,United Kingdom,2020-04-10 22:54:07,49.2138,-2.1358,166,3,0,0,"Jersey, United Kingdom"
 ,,Guernsey,United Kingdom,2020-04-10 22:54:07,49.448196,-2.58949,192,9,0,0,"Guernsey, United Kingdom"
+,,,"Korea, North",2020-04-10 22:54:07,40.3399,127.5101,0,0,0,0,"Korea, North"

@@ -1,7 +1,9 @@
 # COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 
 On March 10, 2023, the Johns Hopkins Coronavirus Resource Center ceased its collecting and reporting of global COVID-19 data. For updated cases, deaths, and vaccine data please visit the following sources:
+
 - Global: [World Health Organization (WHO)](https://www.who.int/)
+
 - U.S.: [U.S. Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
 For more information, visit the [Johns Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/).
@@ -9,13 +11,13 @@ For more information, visit the [Johns Hopkins Coronavirus Resource Center](http
 ----
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
 
-
-
 <b>Visual Dashboard (desktop):</b>
-https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+<https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6>
 
 <b>Visual Dashboard (mobile):</b>
-http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
+
+<http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61>
 
 <b>Please cite our Lancet Article for any use of this data in a publication:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
@@ -23,26 +25,26 @@ http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c0
 [The Johns Hopkins University Center for Systems Science and Engineering COVID-19 Dashboard: data collection process, challenges faced, and lessons learned](https://www.sciencedirect.com/science/article/pii/S1473309922004340)
 
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b>
-https://systems.jhu.edu/
 
-<b>DONATE to the CSSE dashboard team:</b> https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/
+<https://systems.jhu.edu/>
 
+<b>DONATE to the CSSE dashboard team:</b> <https://engineering.jhu.edu/covid-19/support-the-csse-covid-19-dashboard-team/>
 
 <b>DATA SOURCES:</b>
 This list includes a complete list of all sources ever used in the data set, since January 21, 2020. Some sources listed here (e.g. ECDC, US CDC, BNO News) are not currently relied upon as a source of data.
 
 - Aggregated data sources:
-  - World Health Organization (WHO): https://www.who.int/
-  - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases 
-  - DXY.cn. Pneumonia. 2020. https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=
-  - QQ News https://news.qq.com/zt2020/page/feiyan.htm#/
-  - US CDC: https://www.cdc.gov/coronavirus/2019-ncov/index.html
-  - BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-  - WorldoMeters: https://www.worldometers.info/coronavirus/  
-  - 1Point3Arces: https://coronavirus.1point3acres.com/en  
-  - COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
-  - Los Angeles Times: https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/
-  - The Mercury News: https://www.mercurynews.com/tag/coronavirus/
+  - World Health Organization (WHO): <https://www.who.int/>
+  - European Centre for Disease Prevention and Control (ECDC): <https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases>
+  - DXY.cn. Pneumonia. 2020. <https://ncov.dxy.cn/ncovh5/view/pneumonia?from=dxy&source=&link=&share=>
+  - QQ News <https://news.qq.com/zt2020/page/feiyan.htm#/>
+  - US CDC: <https://www.cdc.gov/coronavirus/2019-ncov/index.html>
+  - BNO News: <https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/>
+  - WorldoMeters: <https://www.worldometers.info/coronavirus/>  
+  - 1Point3Arces: <https://coronavirus.1point3acres.com/en>  
+  - COVID Tracking Project: <https://covidtracking.com/data>. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number reported for each state.)
+  - Los Angeles Times: <https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/>
+  - The Mercury News: <https://www.mercurynews.com/tag/coronavirus/>
 
 - US data sources at the state (Admin1) or county/city (Admin2) level:  
   - Alabama: [Department of Public Health](https://www.alabamapublichealth.gov/covid19/)
@@ -171,183 +173,181 @@ This list includes a complete list of all sources ever used in the data set, sin
   - Virginia: [Department of Health](https://www.vdh.virginia.gov/coronavirus/)
   - Washington: [Department of Health](https://www.doh.wa.gov/emergencies/coronavirus)
   - West Virginia: [Department of Health & Human Resources](https://dhhr.wv.gov/COVID-19/Pages/default.aspx)
-  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm) (https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-data-by-county-v2/about)  
+  - Wisconsin: [Department of Health Services](https://www.dhs.wisconsin.gov/covid-19/data.htm) (<https://data.dhsgis.wi.gov/datasets/wi-dhs::covid-19-data-by-county-v2/about>)  
   - Wyoming: [Department of Health](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
   
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - Albania:
-    - National Agency for Information Society: https://coronavirus.al/statistika/
+    - National Agency for Information Society: <https://coronavirus.al/statistika/>
   - Argentina:
-    - Ministry of Health: https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion
+    - Ministry of Health: <https://www.argentina.gob.ar/salud/coronavirus-COVID-19/sala-situacion>
   - Australia:
-    - Government Department of Health: https://www.health.gov.au/news/coronavirus-update-at-a-glance
-    - COVID Live: https://www.covidlive.com.au/
+    - Government Department of Health: <https://www.health.gov.au/news/coronavirus-update-at-a-glance>
+    - COVID Live: <https://www.covidlive.com.au/>
   - Azerbaijan:
-    - Azerbaijan Operational Headquarters under the Cabinet of Ministers: https://koronavirusinfo.az/az
+    - Azerbaijan Operational Headquarters under the Cabinet of Ministers: <https://koronavirusinfo.az/az>
   - Belarus:
-    - Ministry of Health: https://stopcovid.belta.by/
+    - Ministry of Health: <https://stopcovid.belta.by/>
   - Belgium:
-    - Sciensano: https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB
-  - Brazil: 
-    - Ministry of Health: https://covid.saude.gov.br/
-    - Federal University of Viçosa - Brazil: https://github.com/wcota/covid19br (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
+    - Sciensano: <https://datastudio.google.com/embed/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/page/giyUB>
+  - Brazil:
+    - Ministry of Health: <https://covid.saude.gov.br/>
+    - Federal University of Viçosa - Brazil: <https://github.com/wcota/covid19br> (Data described in [DOI: 10.1590/SciELOPreprints.362](https://doi.org/10.1590/SciELOPreprints.362))
   - Burma (Myanmar):
-    - Myanmar Ministry of Health and Sports: https://doph.maps.arcgis.com/apps/dashboards/f8fb4ccc3d2d42c7ab0590dbb3fc26b8
-  - Canada: 
-    - Government of Alberta: https://www.alberta.ca/covid-19-alberta-data.aspx
-    - Government of British Columbia Centre for Disease Control: https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded
-    - Government of Canada: https://www.canada.ca/en/public-health/services/diseases/coronavirus.html
-    - Government of Manitoba: https://www.gov.mb.ca/covid19/updates/cases.html
-    - Government of New Brunswick: https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa
-    - Government of Northwest Territories: https://www.gov.nt.ca/covid-19/
-    - Government of Ontario: https://covid-19.ontario.ca/data
-      - Ottawa Public Health: https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx 
-      - Toronto Public Health: https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/
-      - Region of Peel: https://peelregion.ca/coronavirus/case-status/ 
-      - Region of Halton: https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus   
-    - Government of Prince Edward Island: https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data
-    - Government of Quebec: https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/
-    - Nunavut Department of Health: https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus
-  - Chile: 
-    - Ministry of Health: https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/
-    - Ministry of Communications: https://www.gob.cl/coronavirus/cifrasoficiales/
+    - Myanmar Ministry of Health and Sports: <https://doph.maps.arcgis.com/apps/dashboards/f8fb4ccc3d2d42c7ab0590dbb3fc26b8>
+  - Canada:
+    - Government of Alberta: <https://www.alberta.ca/covid-19-alberta-data.aspx>
+    - Government of British Columbia Centre for Disease Control: <https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded>
+    - Government of Canada: <https://www.canada.ca/en/public-health/services/diseases/coronavirus.html>
+    - Government of Manitoba: <https://www.gov.mb.ca/covid19/updates/cases.html>
+    - Government of New Brunswick: <https://experience.arcgis.com/experience/8eeb9a2052d641c996dba5de8f25a8aa>
+    - Government of Northwest Territories: <https://www.gov.nt.ca/covid-19/>
+    - Government of Ontario: <https://covid-19.ontario.ca/data>
+      - Ottawa Public Health: <https://www.ottawapublichealth.ca/en/reports-research-and-statistics/daily-covid19-dashboard.aspx>
+      - Toronto Public Health: <https://www.toronto.ca/home/covid-19/covid-19-latest-city-of-toronto-news/covid-19-status-of-cases-in-toronto/>
+      - Region of Peel: <https://peelregion.ca/coronavirus/case-status/>
+      - Region of Halton: <https://www.halton.ca/For-Residents/Immunizations-Preventable-Disease/Diseases-Infections/New-Coronavirus>
+    - Government of Prince Edward Island: <https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-covid-19-case-data>
+    - Government of Quebec: <https://www.quebec.ca/en/health/health-issues/a-z/2019-coronavirus/situation-coronavirus-in-quebec/>
+    - Nunavut Department of Health: <https://www.gov.nu.ca/health/information/covid-19-novel-coronavirus>
+  - Chile:
+    - Ministry of Health: <https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/>
+    - Ministry of Communications: <https://www.gob.cl/coronavirus/cifrasoficiales/>
   - China:
-    - qq.com: https://news.qq.com/zt2020/page/feiyan.htm#/
-    - ~~National Health Commission of the People’s Republic of China (NHC): http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml~~
-    - ~~China CDC (CCDC): http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm~~
+    - qq.com: <https://news.qq.com/zt2020/page/feiyan.htm#/>
+    - ~~National Health Commission of the People’s Republic of China (NHC): <http://www.nhc.gov.cn/xcs/yqtb/list_gzbd.shtml>~~
+    - ~~China CDC (CCDC): <http://weekly.chinacdc.cn/news/TrackingtheEpidemic.htm>~~
   - Colombia:
-    - National Institute of Health: http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx
+    - National Institute of Health: <http://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx>
   - Czech Republic (Czechia):
-    - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: https://onemocneni-aktualne.mzcr.cz/covid-19
+    - National Health Information System, Regional Hygiene Stations, Ministry of Health of the Czech Republic: <https://onemocneni-aktualne.mzcr.cz/covid-19>
   - Denmark:
-    - Statens Serum Institute: https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d
+    - Statens Serum Institute: <https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d>
   - Ecuador:
-    - Ministry of Public Health: https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/ 
+    - Ministry of Public Health: <https://www.salud.gob.ec/actualizacion-de-casos-de-coronavirus-en-ecuador/>
   - El Salvador:
-    - Government of El Salvador: https://covid19.gob.sv/
+    - Government of El Salvador: <https://covid19.gob.sv/>
   - Finland:
-    - THL/National Infectious Disease Register: https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7
+    - THL/National Infectious Disease Register: <https://experience.arcgis.com/experience/92e9bb33fac744c9a084381fc35aa3c7>
   - France:
-    - French Ministry of Solidarity and Health and Public Health Dashboard: https://dashboard.covid19.data.gouv.fr/ (retired)
-    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/ (stopped on May 17, 2022)
-    - French Ministry of Solidarity and Health and Public Health Data: https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/
-    - OpenCOVID19: https://github.com/opencovid19-fr (retired)
+    - French Ministry of Solidarity and Health and Public Health Dashboard: <https://dashboard.covid19.data.gouv.fr/> (retired)
+    - French Ministry of Solidarity and Health and Public Health Data: <https://www.data.gouv.fr/en/datasets/donnees-relatives-a-lepidemie-de-covid-19-en-france-vue-densemble/> (stopped on May 17, 2022)
+    - French Ministry of Solidarity and Health and Public Health Data: <https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/>
+    - OpenCOVID19: <https://github.com/opencovid19-fr> (retired)
   - Georgia:
-    - Government of Georgia Ministry of Health: https://stopcov.ge/en
+    - Government of Georgia Ministry of Health: <https://stopcov.ge/en>
   - Germany:
-    - Berliner Morgenpost: https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/ (retired March 31, 2022)
-    - Robert Koch Institute: https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
+    - Berliner Morgenpost: <https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/> (retired March 31, 2022)
+    - Robert Koch Institute: <https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html>
   - Greece:
-    - National Public Health Organization: https://covid19.gov.gr/covid19-live-analytics
+    - National Public Health Organization: <https://covid19.gov.gr/covid19-live-analytics>
   - Guatemala:
-    - Minesterio de Salud Publica Y Asistencia Social: https://tablerocovid.mspas.gob.gt/
+    - Minesterio de Salud Publica Y Asistencia Social: <https://tablerocovid.mspas.gob.gt/>
   - Hong Kong SAR:
-    - The Government of The Hong Kong Special Administrative Region Website: https://www.chp.gov.hk/en/features/102465.html
-    - The Government of The Hong Kong Special Administrative Region Dashboard: https://chp-dashboard.geodata.gov.hk/covid-19/en.html
+    - The Government of The Hong Kong Special Administrative Region Website: <https://www.chp.gov.hk/en/features/102465.html>
+    - The Government of The Hong Kong Special Administrative Region Dashboard: <https://chp-dashboard.geodata.gov.hk/covid-19/en.html>
   - Hungary:
-    - ~~Government of Hungary: https://koronavirus.gov.hu/~~ Discontinued 01/03/2023
+    - ~~Government of Hungary: <https://koronavirus.gov.hu/>~~ Discontinued 01/03/2023
   - Iceland:
-    - Directorate of Health and Department of Civil Protection and Emergency Management: https://www.covid.is/data
+    - Directorate of Health and Department of Civil Protection and Emergency Management: <https://www.covid.is/data>
   - India:
-    - Government of India: https://www.mygov.in/covid-19
-  - Indonesia: 
-    - National Board for Disaster Management: https://covid19.go.id/peta-sebaran
+    - Government of India: <https://www.mygov.in/covid-19>
+  - Indonesia:
+    - National Board for Disaster Management: <https://covid19.go.id/peta-sebaran>
   - Ireland:
-    - Government of Ireland: https://covid19ireland-geohive.hub.arcgis.com/
+    - Government of Ireland: <https://covid19ireland-geohive.hub.arcgis.com/>
   - Israel:
-    - Ministry of Health Website: https://govextra.gov.il/ministry-of-health/corona/corona-virus/
-    - Ministry of Health Dashboard: https://datadashboard.health.gov.il/COVID-19/general
+    - Ministry of Health Website: <https://govextra.gov.il/ministry-of-health/corona/corona-virus/>
+    - Ministry of Health Dashboard: <https://datadashboard.health.gov.il/COVID-19/general>
   - Italy:
-    - Civil Protection Department: https://github.com/pcm-dpc/COVID-19/tree/master/
-    - Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
-  - Japan: 
-    - MHLW: https://covid19.mhlw.go.jp/extensions/public/en/index.html
+    - Civil Protection Department: <https://github.com/pcm-dpc/COVID-19/tree/master/>
+    - Ministry of Health: <http://www.salute.gov.it/nuovocoronavirus>
+  - Japan:
+    - MHLW: <https://covid19.mhlw.go.jp/extensions/public/en/index.html>
   - Jordan:
-    - Ministry of Health: https://corona.moh.gov.jo/en
-  - Kazakhstan: 
-    - Kazinform: https://www.coronavirus2020.kz/
+    - Ministry of Health: <https://corona.moh.gov.jo/en>
+  - Kazakhstan:
+    - Kazinform: <https://www.coronavirus2020.kz/>
   - Kosovo:
-    - National Institute of Health of Kosovo Dashboard: https://corona-ks.info/?lang=en
-    - National Institute of Health of Kosovo JSON: https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json
-    - National Institute of Health of Kosovo Data Studio Dashboard: https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB 
+    - National Institute of Health of Kosovo Dashboard: <https://corona-ks.info/?lang=en>
+    - National Institute of Health of Kosovo JSON: <https://raw.githubusercontent.com/bgeVam/Kosovo-Coronatracker-Data/master/data.json>
+    - National Institute of Health of Kosovo Data Studio Dashboard: <https://datastudio.google.com/embed/reporting/2e546d77-8f7b-4c35-8502-38533aa0e9e8/page/MT0qB>
   - Lebanon  
-    - Lebanese Ministry Of Information: https://corona.ministryinfo.gov.lb/
-  - Lithuania: 
-    - Government of Lithuania: https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca
-  - Luxembourg: 
-    - Government of Luxembourg: https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#_
+    - Lebanese Ministry Of Information: <https://corona.ministryinfo.gov.lb/>
+  - Lithuania:
+    - Government of Lithuania: <https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca>
+  - Luxembourg:
+    - Government of Luxembourg: <https://data.public.lu/fr/datasets/covid-19-rapports-journaliers/#>_
   - Macau SAR:
-    - Health Services of the Government of the Macau Special Administrative Region: https://www.ssm.gov.mo/portal/
+    - Health Services of the Government of the Macau Special Administrative Region: <https://www.ssm.gov.mo/portal/>
   - Malaysia
-    - Ministry of Health Website: https://covid-19.moh.gov.my/
-    - Ministry of Health Dashboard: https://covidnow.moh.gov.my/bm/cases
-    - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: https://github.com/MoH-Malaysia/covid19-public
+    - Ministry of Health Website: <https://covid-19.moh.gov.my/>
+    - Ministry of Health Dashboard: <https://covidnow.moh.gov.my/bm/cases>
+    - Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera: <https://github.com/MoH-Malaysia/covid19-public>
   - Mexico:
-    - Government of Mexico: https://datos.covid-19.conacyt.mx/#DOView
+    - Government of Mexico: <https://datos.covid-19.conacyt.mx/#DOView>
   - Monaco:
-    - Gouvernement Princier Principaute de Monaco: https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites
+    - Gouvernement Princier Principaute de Monaco: <https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites>
   - Netherlands:
-    - National Institute for Health and Environment: https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d
+    - National Institute for Health and Environment: <https://experience.arcgis.com/experience/ea064047519040469acb8da05c0f100d>
   - New Zealand:
-    - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
-    - Government of Cook Islands: https://covid19.gov.ck/
+    - Ministry of Health: <https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases>
+    - Government of Cook Islands: <https://covid19.gov.ck/>
   - Palau:
-    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+    - Ministry of Health & Human Services: <http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf>
   - Paraguay:
-    - Ministerio de Salud Publica Y Bienestar Social: https://www.mspbs.gov.py/reporte-covid19.html
+    - Ministerio de Salud Publica Y Bienestar Social: <https://www.mspbs.gov.py/reporte-covid19.html>
   - Pakistan:
-    - Government of Pakistan: http://covid.gov.pk/stats/pakistan
+    - Government of Pakistan: <http://covid.gov.pk/stats/pakistan>
   - Peru:
-    - Ministry of Health Dashboard: https://covid19.minsa.gob.pe/sala_situacional.asp
-    - Ministry of Health Press Releases: https://www.gob.pe/busquedas?categoria[]=6-salud&contenido[]=noticias&institucion[]=minsa&sheet=1&sort_by=recent&tipo_noticia[]=3-comunicado
+    - Ministry of Health Dashboard: <https://covid19.minsa.gob.pe/sala_situacional.asp>
+    - Ministry of Health Press Releases: <https://www.gob.pe/busquedas?categoria[]=6-salud&contenido[]=noticias&institucion[]=minsa&sheet=1&sort_by=recent&tipo_noticia[]=3-comunicado>
   - Philippines:
-    - Republic of Philippines Department of Health: https://doh.gov.ph/covid19tracker
-  - Poland: 
-    - Service of the Republic of Poland: https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2
+    - Republic of Philippines Department of Health: <https://doh.gov.ph/covid19tracker>
+  - Poland:
+    - Service of the Republic of Poland: <https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2>
   - Portugal:
-    - General Directorate of Health: https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829 (expired on March 13, 2022. Transferred to WHO.)
+    - General Directorate of Health: <https://esriportugal.maps.arcgis.com/apps/dashboards/acf023da9a0b4f9dbb2332c13f635829> (expired on March 13, 2022. Transferred to WHO.)
   - Romania:
-    - Government of Romania: https://datelazi.ro/ 
-  - Russia: 
-    - Government of The Russian Federation: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
+    - Government of Romania: <https://datelazi.ro/>
+  - Russia:
+    - Government of The Russian Federation: <https://xn--80aesfpebagmfblc0a.xn--p1ai/information/>
   - Saudi Arabia:
-    - Saudi Arabia Ministry of Health: https://covid19.moh.gov.sa/  
+    - Saudi Arabia Ministry of Health: <https://covid19.moh.gov.sa/>  
   - Serbia:
-    - Ministry of Health of the Republic of Serbia: https://covid19.rs/homepage-english/ 
+    - Ministry of Health of the Republic of Serbia: <https://covid19.rs/homepage-english/>
   - Singapore:
-    - Singapore Ministry of Health: https://www.moh.gov.sg/covid-19 
-  - Slovakia: 
-    - Ministry of Investment, Regional Development and Information: https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok
+    - Singapore Ministry of Health: <https://www.moh.gov.sg/covid-19>
+  - Slovakia:
+    - Ministry of Investment, Regional Development and Information: <https://korona.gov.sk/koronavirus-na-slovensku-v-cislach/#covid-aut-nasledujuci-pondelok>
   - Slovenia:
-    - Sledilnik: https://covid-19.sledilnik.org/en/stats
+    - Sledilnik: <https://covid-19.sledilnik.org/en/stats>
   - South Africa:
-    - South Africa Department of Health: https://sacoronavirus.co.za/
+    - South Africa Department of Health: <https://sacoronavirus.co.za/>
   - South Korea:
-    - Ministry of Health and Welfare: http://ncov.mohw.go.kr/
+    - Ministry of Health and Welfare: <http://ncov.mohw.go.kr/>
   - Spain:
-    - RTVE: https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml
+    - RTVE: <https://www.rtve.es/noticias/20200514/mapa-del-coronavirus-espana/2004681.shtml>
   - Sweden:
-    - The Swedish Public Health Agency: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
+    - The Swedish Public Health Agency: <https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa>
   - Switzerland:
-    - Federal Office Of Public Health: https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html
-    - Open Government Data Reported By The Swiss Cantons: https://github.com/openZH/covid_19
+    - Federal Office Of Public Health: <https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html>
+    - Open Government Data Reported By The Swiss Cantons: <https://github.com/openZH/covid_19>
   - Taiwan*:
-    - CDC: https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0
-  - Thailand: 
-    - Ministry of Public Health, Department of Disease Control Dashboard: https://ddc.moph.go.th/viralpneumonia/eng/index.php
-    - Ministry of Public Health, Department of Disease Control Situational Reports: https://covid19.ddc.moph.go.th/en
-  - Turkey: 
-    - ~~Republic of Turkey Ministry of Health: https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html~~
-    - ~~Digital Transformation Office of The Presidency of The Republic of Turkey: https://corona.cbddo.gov.tr/Home/GetLastDayDifference~~
-  - Ukraine: 
-    - Office of the National Security and Defense Council of Ukraine: https://covid19.rnbo.gov.ua/
+    - CDC: <https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=0>
+  - Thailand:
+    - Ministry of Public Health, Department of Disease Control Dashboard: <https://ddc.moph.go.th/viralpneumonia/eng/index.php>
+    - Ministry of Public Health, Department of Disease Control Situational Reports: <https://covid19.ddc.moph.go.th/en>
+  - Turkey:
+    - ~~Republic of Turkey Ministry of Health: <https://covid19.saglik.gov.tr/TR-66935/genel-koronavirus-tablosu.html>~~
+    - ~~Digital Transformation Office of The Presidency of The Republic of Turkey: <https://corona.cbddo.gov.tr/Home/GetLastDayDifference>~~
+  - Ukraine:
+    - Office of the National Security and Defense Council of Ukraine: <https://covid19.rnbo.gov.ua/>
   - United Arab Emirates:
-    - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: https://covid19.ncema.gov.ae/en
+    - The Supreme Council For National Security, National Emergency Crisis and Disasters Management Authority: <https://covid19.ncema.gov.ae/en>
   - United Kingdom
-    - Government of the United Kingdom: https://coronavirus.data.gov.uk/#category=nations&map=rate
-    - Scottish Government: https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/
-    
-
+    - Government of the United Kingdom: <https://coronavirus.data.gov.uk/#category=nations&map=rate>
+    - Scottish Government: <https://www.gov.scot/publications/coronavirus-covid-19-trends-in-daily-data/>
 
 <b>Embed our dashboard into your webpage:</b>
 
@@ -361,18 +361,16 @@ Financial Support: Johns Hopkins University, National Science Foundation (NSF), 
 Resource support: AWS, Slack, Github; Technical support: Johns Hopkins Applied Physics Lab (APL), Esri Living Atlas team
 
 <b>Additional Information about the Visual Dashboard:</b>
-https://systems.jhu.edu/research/public-health/ncov/
+<https://systems.jhu.edu/research/public-health/ncov/>
 
 <b>Contact Us: </b>
 
-* Email: jhusystems@gmail.com
+- Email: <jhusystems@gmail.com>
   
-  
-
 <b>Terms of Use:</b>
 
-1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering.  Copyright Johns Hopkins University 2020. 
+1. This data set is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) by the Johns Hopkins University on behalf of its Center for Systems Science in Engineering.  Copyright Johns Hopkins University 2020.
 
-2. Attribute the data as the "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University" or "JHU CSSE COVID-19 Data" for short, and the url: https://github.com/CSSEGISandData/COVID-19.  
+2. Attribute the data as the "COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University" or "JHU CSSE COVID-19 Data" for short, and the url: <https://github.com/CSSEGISandData/COVID-19>.  
 
 3. For publications that use the data, please cite the following publication: "Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1"
